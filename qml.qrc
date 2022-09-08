@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DisplayCamera.qml</file>
+        <file>Images/blur.png</file>
+        <file>Images/grayScale.png</file>
+        <file>Images/original.png</file>
+        <file>Images/favorite.png</file>
+        <file>Images/notFavorite.png</file>
+        <file>Images/background.jpg</file>
+        <file>Images/floppy-disk.png</file>
+        <file>PopUp.qml</file>
+        <file>Images/back.png</file>
+        <file>Images/all.png</file>
+        <file>Images/minus.png</file>
+        <file>Images/all1.png</file>
+    </qresource>
+</RCC>
